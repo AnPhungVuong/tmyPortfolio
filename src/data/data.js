@@ -4,6 +4,8 @@ import todo from "../assets/projects/Todo-List.png"
 import weather from "../assets/projects/weather-app.png"
 import nike from "../assets/projects/nike.png"
 import phov from "../assets/projects/pho-v.png"
+import tmovie from "../assets/projects/tmovie.png"
+
 export const data=[
     {
         id:1,
@@ -42,6 +44,13 @@ export const data=[
     },
     {
         id:6,
+        name:"TMovie",
+        image:tmovie,
+        github:"https://github.com/AnPhungVuong/TMovie-app",
+        live:"https://tmovietheater.netlify.app/",
+    },
+    {
+        id:7,
         name:"Pho V Restaurant (coming soon)",
         image:phov,
         github:"",
