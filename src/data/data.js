@@ -42,7 +42,7 @@ export const data=[
     },
     {
         id:6,
-        name:"Pho V (coming soon)",
+        name:"Pho V Restaurant (coming soon)",
         image:phov,
         github:"",
         live:"",
