@@ -3,7 +3,7 @@ import calculator from "../assets/projects/reactCalculator.png"
 import todo from "../assets/projects/Todo-List.png"
 import weather from "../assets/projects/weather-app.png"
 import nike from "../assets/projects/nike.png"
-
+import phov from "../assets/projects/pho-v.png"
 export const data=[
     {
         id:1,
@@ -40,5 +40,11 @@ export const data=[
         github:"https://github.com/AnPhungVuong/nike-app",
         live:"https://nikepagereplica.netlify.app/",
     },
-
+    {
+        id:6,
+        name:"Pho V (coming soon)",
+        image:phov,
+        github:"",
+        live:"",
+    },
 ]
