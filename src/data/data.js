@@ -21,13 +21,7 @@ export const data=[
         github:"https://github.com/AnPhungVuong/reactCalculator",
         live:"https://tmyreactcalculator.netlify.app/",
     },
-    {
-        id:3,
-        name:"To Do List",
-        image:todo,
-        github:"https://github.com/AnPhungVuong/Todo-List",
-        live:"https://master--super-toffee-cf97c7.netlify.app",
-    },
+    
     {
         id:4,
         name:"Weather App",
