@@ -10,7 +10,7 @@ import {
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/an-vuong-logo-zip-file (1)/png/logo-no-background.png';
-import resume from '../assets/AnVuong_Resume.pdf'
+import resume from '../assets/AnVuong_Resume.pdf';
 import { Link } from 'react-scroll';
 
 
